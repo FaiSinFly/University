@@ -1,1 +1,1 @@
-university lab
+university labs
